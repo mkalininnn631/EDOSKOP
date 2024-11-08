@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "755347508832",
+    "project_id": "edoskop-b3029",
+    "storage_bucket": "edoskop-b3029.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755347508832:android:1d2dfeb9fcca6bc3343d05",
+        "android_client_info": {
+          "package_name": "com.example.edoskop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfR4ReUw7oeFf5HHA8qQCfgv8fz1__Ias"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755347508832:android:0b5a69364d91f7c6343d05",
+        "android_client_info": {
+          "package_name": "com.example.first"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfR4ReUw7oeFf5HHA8qQCfgv8fz1__Ias"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
